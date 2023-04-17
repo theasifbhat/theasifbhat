@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Automating Webapps**
 
-- 🌱 I’m currently learning **Selenium,jMeter,Appium**
+- 🌱 I’m currently learning **Playwright, Selenium, jMeter, Appium**
 
 - 👯 I’m looking to collaborate on **open source automation projects**
 
